@@ -1,0 +1,1 @@
+global.puntos = 0;

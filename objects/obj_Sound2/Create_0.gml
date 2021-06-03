@@ -1,0 +1,1 @@
+audio_play_sound(s_Laser2, 3, false);

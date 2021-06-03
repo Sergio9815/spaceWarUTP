@@ -1,0 +1,1 @@
+global.vidas = 5;
